@@ -1,0 +1,190 @@
+{
+"Imoveis": {
+    "QuantidadeResultados": 886562,
+    "Imoveis": [
+      {
+        "CodImovel": 9234774,
+        "TipoImovel": "Apartamento",
+        "Endereco": {
+          "Logradouro": "Rua Olimpiadas",
+          "Numero": "205",
+          "Complemento": "11",
+          "CEP": "04256177",
+          "Bairro": "Vila Olímpia",
+          "Cidade": "São Paulo",
+          "Estado": "SP"
+        },
+        "PrecoVenda": 139000,
+        "PrecoLocacao": 1000,
+        "Fotos": [
+          {
+            "UrlImagem": "http://imagens.zapcorp.com.br/2594665/1b52c9ca-d184-4c34-9033-9100e6ea6124_gg.jpg",
+            "Principal": true,
+            "Descricao": "",
+            "Origem": "ZapImoveis",
+            "CodImobiliaria": 0
+          },
+          {
+            "UrlImagem": "http://imagens.zapcorp.com.br/2594665/1b52c9ca-d184-4c34-9033-9100e6ea6124_gg.jpg",
+            "Principal": false,
+            "Descricao": "",
+            "Origem": "ZapImoveis",
+            "CodImobiliaria": 0
+          }
+        ],
+        "SubtipoImovel": "Apartamento Padrão",
+        "ZapID": "im08181776"
+      },
+      {
+        "CodImovel": 9234776,
+        "TipoImovel": "Terreno",
+        "Endereco": {
+          "Logradouro": "ENDEREÇO NÃO INFORMADO",
+          "Numero": "",
+          "Complemento": "",
+          "CEP": "",
+          "Bairro": "",
+          "Cidade": "",
+          "Estado": ""
+        },
+        "PrecoVenda": 179202,
+        "Fotos": [
+          {
+            "UrlImagem": "http://imagens.zapcorp.com.br/805592/d6bd9e6f-c3bc-4010-8b91-6c549f0b3a23_m.jpg",
+            "Principal": false,
+            "Descricao": "",
+            "Origem": "ZapImoveis",
+            "CodImobiliaria": 0
+          },
+          {
+            "UrlImagem": "http://imagens.zapcorp.com.br/imoveis/2162997/venda9000/f0e23e2ffef54d8bbd76_m.jpg",
+            "Principal": true,
+            "Descricao": "",
+            "Origem": "ZapImoveis",
+            "CodImobiliaria": 0
+          }
+        ],
+        "SubtipoImovel": "Loteamento/Condomínio",
+        "ZapID": "im08181778"
+      },
+      {
+        "CodImovel": 9234775,
+        "TipoImovel": "Apartamento",
+        "Endereco": {
+          "Logradouro": "Rua Olimpiadas",
+          "Numero": "",
+          "Complemento": "",
+          "CEP": "",
+          "Bairro": "São Geraldo",
+          "Cidade": "GRAVATAI",
+          "Estado": "RS"
+        },
+        "PrecoLocacao": 1000,
+        "Fotos": [
+          {
+            "UrlImagem": "http://imagens.zapcorp.com.br/imoveis/2636341/2d71a/c53ce51b3dc9410ab8a2_m.jpg",
+            "Principal": true,
+            "Descricao": "",
+            "Origem": "ZapImoveis",
+            "CodImobiliaria": 0
+          }
+        ],
+        "SubtipoImovel": "Apartamento Padrão",
+        "ZapID": "im08181777"
+      },
+      {
+        "CodImovel": 9234772,
+        "TipoImovel": "Apartamento",
+        "Endereco": {
+          "Logradouro": "Rua Olimpiadas",
+          "Numero": "",
+          "Complemento": "",
+          "CEP": "",
+          "Bairro": "Dom Feliciano",
+          "Cidade": "",
+          "Estado": ""
+        },
+        "PrecoVenda": 0,
+        "Fotos": [
+          {
+            "UrlImagem": "http://imagens.zapcorp.com.br/imoveis/2753754/zap820251/c0ada3b426a34a2880a7_m.jpg",
+            "Principal": true,
+            "Descricao": "",
+            "Origem": "ZapImoveis",
+            "CodImobiliaria": 0
+          }
+        ],
+        "SubtipoImovel": "Apartamento Padrão",
+        "ZapID": "im08181774"
+      },
+      {
+        "CodImovel": 9235243,
+        "TipoImovel": "Casa",
+        "Endereco": {
+          "Logradouro": "ENDEREÇO NÃO INFORMADO",
+          "Numero": "",
+          "Complemento": "",
+          "CEP": "",
+          "Bairro": "Parque dos Anjos",
+          "Cidade": "GRAVATAI",
+          "Estado": "RS"
+        },
+        "PrecoVenda": 638297,
+        "Fotos": [
+          {
+            "UrlImagem": "http://imagens.zapcorp.com.br/2595177/10fd9bc1-fc03-47c4-bc27-c353c47242b1_gg.jpg",
+            "Principal": true,
+            "Descricao": "",
+            "Origem": "ZapImoveis",
+            "CodImobiliaria": 0
+          }
+        ],
+        "SubtipoImovel": "Casa Padrão",
+        "ZapID": "im08182245"
+      },
+      {
+        "CodImovel": 9235241,
+        "TipoImovel": "Terreno",
+        "Endereco": {
+          "Logradouro": "ENDEREÇO NÃO INFORMADO",
+          "Numero": "",
+          "Complemento": "",
+          "CEP": "",
+          "Bairro": "Bela Vista",
+          "Cidade": "GRAVATAI",
+          "Estado": "RS"
+        },
+        "PrecoVenda": 599000,
+        "PrecoLocacao": 12000,
+        "Fotos": [
+          {
+            "UrlImagem": "http://imagens.zapcorp.com.br/2594665/1b52c9ca-d184-4c34-9033-9100e6ea6124_gg.jpg",
+            "Principal": false,
+            "Descricao": "",
+            "Origem": "ZapImoveis",
+            "CodImobiliaria": 0
+          },
+          {
+            "UrlImagem": "http://imagens.zapcorp.com.br/imoveis/2162997/venda9000/f0e23e2ffef54d8bbd76_m.jpg",
+            "Principal": true,
+            "Descricao": "",
+            "Origem": "ZapImoveis",
+            "CodImobiliaria": 0
+          },
+          {
+            "UrlImagem": "http://imagens.zapcorp.com.br/imoveis/2753754/zap820251/c0ada3b426a34a2880a7_m.jpg",
+            "Principal": false,
+            "Descricao": "",
+            "Origem": "ZapImoveis",
+            "CodImobiliaria": 0
+          }
+        ],
+        "SubtipoImovel": "Loteamento/Condomínio",
+        "ZapID": "im08182243"
+      }
+    ]
+  },
+  "ResponseStatus": {
+    "Message": "OK"
+  }
+}
